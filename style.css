@@ -8,6 +8,10 @@ body {
   min-height: 100vh;
 }
 
-h1 {
+.prva {
     color:red;
+}
+
+.boja {
+	color: yellow;
 }
